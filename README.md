@@ -2,6 +2,8 @@
 
 The AI Family Movie Recommendation Agent is an intelligent agent designed to independently browse the [HOT Cinemas website](https://hotcinema.co.il) and recommend movies suitable for a family movie night. The agent interacts with the original Hebrew site, researches the movies, and prepares an HTML page with bilingual descriptions and analysis of family friendliness in both English and Hebrew. Each movie recommendation includes a 1-click button to buy tickets.
 
+![](html_assets/walkthrough.gif)
+
 It uses the OpenAI API to generate movie descriptions and family-friendliness analysis.
 
 ## Features
